@@ -2,11 +2,6 @@
 
 # Hi, I'm promotesd
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=Fortune+favors+the+brave!"
-  alt="Typing SVG: Fortune favors the brave!"
-/>
-
 </div>
 
 <img
@@ -27,3 +22,10 @@ Hi! I'm a curious builder who enjoys turning ideas, sensors, and algorithms into
 - 📸 Outside research, I enjoy photography, fitness, and piano.
 
 <br clear="right" />
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=Fortune+favors+the+brave!"
+    alt="Typing SVG: Fortune favors the brave!"
+  />
+</div>
