@@ -30,9 +30,3 @@
 
 - I studied Multi-Media and Web Development at Fuzhou University from 2022 to 2026.
 - Since 2026, I have been studying Intelligent Science and Technology at Harbin Engineering University, with a focus on robot perception and planning.
-
-## GitHub Contributions
-
-<div align="center">
-  <img alt="Purple snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/promotesd/promotesd/output/github-snake.svg" />
-</div>
