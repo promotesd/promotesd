@@ -2,8 +2,6 @@
 
 # Hi, I'm promotesd
 
-**I am interested in Visual/LiDAR SLAM, LiDAR-Inertial Odometry, Robot Navigation | 📸 🏋️‍♂️ 🎹**
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=Fortune+favors+the+brave!"
   alt="Typing SVG: Fortune favors the brave!"
@@ -16,12 +14,16 @@
 <table>
   <tr>
     <td width="66%" valign="top">
-      <h2>About Me</h2>
+      <h2>✨ About Me</h2>
+      <p>
+        Hi! I'm a curious builder who enjoys turning ideas, sensors, and algorithms into things that can move through the real world.
+      </p>
       <ul>
-        <li>I studied Multi-Media and Web Development at Fuzhou University from 2022 to 2026.</li>
-        <li>Since 2026, I have been studying Intelligent Science and Technology at Harbin Engineering University.</li>
-        <li>My current focus is robot perception and planning.</li>
-        <li>I am interested in Visual/LiDAR SLAM, LiDAR-Inertial Odometry, and Robot Navigation.</li>
+        <li>🎓 From 2022 to 2026, I studied Digital Media Technology at Fuzhou University.</li>
+        <li>🤖 Since 2026, I have been studying Intelligent Science and Technology at Harbin Engineering University.</li>
+        <li>🧭 I focus on robot perception and planning, especially how robots understand and navigate complex environments.</li>
+        <li>📍 I am interested in Visual/LiDAR SLAM, Robot Navigation, and practical robotics systems.</li>
+        <li>📸 Outside research, I enjoy photography, fitness, and piano.</li>
       </ul>
     </td>
     <td width="34%" align="center" valign="middle">
