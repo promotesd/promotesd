@@ -13,7 +13,7 @@
 
 <p><strong><font color="#7dd3fc" size="5">✨ About Me</font></strong></p>
 
-Hi! I'm a curious builder who enjoys turning ideas, sensors, and algorithms into things that can move through the real world.
+I'm a curious builder who enjoys turning ideas, sensors, and algorithms into things that can move through the real world.
 
 - 🎓 From 2022 to 2026, I studied **Digital Media Technology** at **Fuzhou University**.
 - 🤖 Since 2026, I have been studying **Intelligent Science and Technology** at **Harbin Engineering University**.
