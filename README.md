@@ -39,6 +39,13 @@
 <br />
 
 <div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img
+    src="https://raw.githubusercontent.com/promotesd/promotesd/output/github-snake.svg"
+    alt="Purple snake eating my GitHub contribution graph"
+  />
+  <br />
+  <br />
   <img src="https://cdn.mfuns.net/static/76dec37400340f5ec366d6cb18297472864594a6cbff5dcb325584ebfe3fcfc6.gif" alt="Animated cat sticker" width="92" />
   <img src="https://cdn.mfuns.net/static/5f621524d076c94f4b37194ddb74ebc4142c23a91197ad8cfa948b5ebddb9871.gif" alt="Animated cat sticker" width="92" />
   <img src="https://cdn.mfuns.net/static/f15f07bc67045927910284507d91b7a8cca8c55375cd11804fb64688f4f4641c.gif" alt="Animated cat sticker" width="92" />
