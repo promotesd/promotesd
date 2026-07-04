@@ -11,35 +11,28 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="66%" valign="top">
-      <h2>✨ About Me</h2>
-      <p>
-        Hi! I'm a curious builder who enjoys turning ideas, sensors, and algorithms into things that can move through the real world.
-      </p>
-      <ul>
-        <li>🎓 From 2022 to 2026, I studied Digital Media Technology at Fuzhou University.</li>
-        <li>🤖 Since 2026, I have been studying Intelligent Science and Technology at Harbin Engineering University.</li>
-        <li>🧭 I focus on robot perception and planning, especially how robots understand and navigate complex environments.</li>
-        <li>📍 I am interested in Visual/LiDAR SLAM, Robot Navigation, and practical robotics systems.</li>
-        <li>📸 Outside research, I enjoy photography, fitness, and piano.</li>
-      </ul>
-    </td>
-    <td width="34%" align="center" valign="middle">
-      <img
-        src="https://cdn.mfuns.net/static/e0fd6e9a768f22ee78382a1306cec42aa193a76a5dd3c7c959fdf816741fad90.gif"
-        alt="Animated cat from MFuns"
-        width="180"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  align="right"
+  src="https://cdn.mfuns.net/static/e0fd6e9a768f22ee78382a1306cec42aa193a76a5dd3c7c959fdf816741fad90.gif"
+  alt="Animated cat from MFuns"
+  width="185"
+/>
+
+<h2><font color="#7dd3fc">✨ About Me</font></h2>
+
+Hi! I'm a curious builder who enjoys turning ideas, sensors, and algorithms into things that can move through the real world.
+
+- 🎓 From 2022 to 2026, I studied **Digital Media Technology** at **Fuzhou University**.
+- 🤖 Since 2026, I have been studying **Intelligent Science and Technology** at **Harbin Engineering University**.
+- 🧭 I focus on **robot perception and planning**, especially how robots understand and navigate complex environments.
+- 📍 I am interested in **Visual/LiDAR SLAM**, **Robot Navigation**, and practical robotics systems.
+- 📸 Outside research, I enjoy photography, fitness, and piano.
+
+<br clear="right" />
 
 <br />
 
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
   <img
     src="https://raw.githubusercontent.com/promotesd/promotesd/output/github-snake.svg"
     alt="Purple snake eating my GitHub contribution graph"
