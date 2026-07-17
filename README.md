@@ -29,3 +29,17 @@ I'm a curious builder who enjoys turning ideas, sensors, and algorithms into thi
     alt="Typing SVG: Fortune favors the brave!"
   />
 </div>
+
+## Latest from xiaodudu.top
+
+### Blog
+
+<!-- XIAODUDU_BLOG:START -->
+_No published blog posts yet._
+<!-- XIAODUDU_BLOG:END -->
+
+### Diary
+
+<!-- XIAODUDU_DIARY:START -->
+_No published diary entries yet._
+<!-- XIAODUDU_DIARY:END -->
