@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync-site-content.yml"
 
 permissions:
   contents: write
@@ -20,17 +24,19 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Update README sections
-        run: python3 scripts/update_site_content.py
+      - name: Update latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.xiaodudu.top/rss.xml"
+          max_post_count: 5
+          commit_message: "chore: sync latest blog posts"
+          enable_keepalive: false
 
-      - name: Commit changed content
-        run: |
-          if git diff --quiet -- README.md; then
-            echo "README is already current."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: sync blog and diary"
-          git push
+      - name: Update latest diary entries
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "DIARY-POST-LIST"
+          feed_list: "https://www.xiaodudu.top/diary-rss.xml"
+          max_post_count: 5
+          commit_message: "chore: sync latest diary entries"
+          enable_keepalive: false

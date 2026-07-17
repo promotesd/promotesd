@@ -34,12 +34,12 @@ I'm a curious builder who enjoys turning ideas, sensors, and algorithms into thi
 
 ### Blog
 
-<!-- XIAODUDU_BLOG:START -->
+<!-- BLOG-POST-LIST:START -->
 _No published blog posts yet._
-<!-- XIAODUDU_BLOG:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Diary
 
-<!-- XIAODUDU_DIARY:START -->
+<!-- DIARY-POST-LIST:START -->
 _No published diary entries yet._
-<!-- XIAODUDU_DIARY:END -->
+<!-- DIARY-POST-LIST:END -->
